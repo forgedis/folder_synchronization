@@ -9,7 +9,7 @@ import hashlib
 '''
 Folder synchronization TEST task by Martin Bujnak for Veeam
 
-GitHub repository: https://github.com/forgedis #TODO
+GitHub repository: https://github.com/forgedis/folder_synchronization
 '''
 
 def log(message, path, log_path): 
