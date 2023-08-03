@@ -1,0 +1,5 @@
+2023-08-03T23:18:35.124852+02:00 | Syncing folders | Created folder: replica_folder\synctest
+2023-08-03T23:18:50.157593+02:00 | Syncing folders | Created file: replica_folder\filetest.txt
+2023-08-03T23:19:05.206553+02:00 | Syncing folders | Updated file: replica_folder\filetest.txt
+2023-08-03T23:19:15.225534+02:00 | Syncing folders | Created folder: replica_folder\deleteme
+2023-08-03T23:19:20.237587+02:00 | Syncing folders | Deleted folder and its content: replica_folder\deleteme
